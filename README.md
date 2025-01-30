@@ -68,11 +68,11 @@ It uses Selenium to navigate Google’s account creation form, entering details 
 - Username (generated dynamically)
 - Password (generated securely)
 It bypasses basic bot protection using the `undetected_chromedriver` option.
+
 Customization Options
 - **Change the Country**: In `fetch_otp.py`, modify the `country` parameter to select a different country for phone number fetching.
 - **Customize User Details**: Modify `google_account_create.py` to set different user details (name, birthday, etc.).
-License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 Contact
 Feel free to reach out with any questions or contributions!
-Email: [your.email@example.com](mailto:your.email@example.com)
+Email: [hiteshofficial0001@example.com](mailto:hiteshofficial0001@example.com)
